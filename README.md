@@ -1,1 +1,1 @@
-# insightaccounting
+Insight Accounting
